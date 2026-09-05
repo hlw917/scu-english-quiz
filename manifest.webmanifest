@@ -1,7 +1,7 @@
 {
-  "name": "東吳英檢練習 App",
+  "name": "東吳英檢 60 題練習｜V1.1 學習強化版",
   "short_name": "東吳英檢",
-  "description": "東吳英檢第 51～110 題，60 題文法與閱讀練習。",
+  "description": "東吳英檢第51至110題練習，含中文題意、答案解析、文章重點、錯題本與分類統計。",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
