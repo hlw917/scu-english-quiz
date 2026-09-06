@@ -1,4 +1,4 @@
-const CACHE='scu-english-quiz-v1.3.3';
+const CACHE='scu-english-quiz-v1.3.4';
 
 self.addEventListener('install',e=>{
   e.waitUntil(caches.open(CACHE).then(c=>c.addAll([
